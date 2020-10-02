@@ -2,7 +2,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/swaraj961/Covid-19)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-# Covid-19 Live Tracker ![Icon](https://github.com/swaraj961/Covid-19/blob/master/android/app/src/main/res/mipmap-hdpi/ic_launcher.png)
+# Covid-19 Live Tracker😍 ![Icon](https://github.com/swaraj961/Covid-19/blob/master/android/app/src/main/res/mipmap-hdpi/ic_launcher.png)
 
 -Made with ❤ India
 
@@ -20,6 +20,7 @@
 ## Download apk-
 - https://www.shorturl.at/dqY38
 - Api- https://corona.lmao.ninja/v2/all
+- always latest data
 
 # App UI 
 ![Finished App](https://github.com/swaraj961/Covid-19/blob/master/images/covid.gif)
